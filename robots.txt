@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://dylanschmid538-ctrl.github.io/sitemap.xml
+Sitemap: https://ranked-calisthenics.vercel.app/sitemap.xml
